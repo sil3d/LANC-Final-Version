@@ -1,0 +1,11 @@
+pyqt5
+sqlite3
+tk
+vosk
+pyttsx3
+pyqudio
+webbrowser
+pyautogui
+PIL
+wikipedia
+bs4
