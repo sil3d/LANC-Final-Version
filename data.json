@@ -1,0 +1,479 @@
+{
+    "phrases": [
+      {
+        "question": [
+          "comment tu vas",
+          "comment vas-tu",
+          "ça va toi"
+        ],
+        "reponse": [
+          "merci, je vais bien",
+          "pas trop mal merci",
+          "ça peut aller",
+          "je n'ai pas vraiment d'émotions, mais ça peut aller"
+        ]
+      },
+      {
+        "question": [
+          "je vais bien",
+          "je vais bien ",
+          "ça va",
+          "ça peut aller"
+        ],
+        "reponse": [
+          "tant mieux",
+          "heureux de l'entendre",
+          "cool alors",
+          "super, et sinon comment je peux t'aider?",
+          "ravis de l'entendre, et sinon comment puis-je t'aider?"
+        ]
+      },
+      {
+        "question": [
+          "je ne vais pas bien",
+          "bof",
+          "ça ne va pas bien"
+        ],
+        "reponse": [
+          "pourquoi?",
+          "désolé pour toi"
+        ]
+      },
+      {
+        "question": [
+          "comment tu t'appelles",
+          "qui es-tu",
+          "qui",
+          "tu es",
+          "tu es qui"
+        ],
+        "reponse": [
+          "je m'appelle LANCE",
+          "Concrètement je suis une IA qui simule l'intelligence humaine",
+          "mais je ne suis pas autonome",
+          "mon rôle est d'être un assistant"
+        ]
+      },
+      {
+        "question": [
+          "lanc",
+          "lance",
+          "debout",
+          "tu es là",
+          "tu es la"
+        ],
+        "reponse": [
+          "toujours présent",
+          "oui, je suis là!!",
+          "oui"
+        ]
+      },
+      {
+        "question": [
+          "Bonsoir lanc",
+          "Bonsoir lance",
+          "bonsoir"
+        ],
+        "reponse": [
+          "Bonsoir!, j'espère que vous avez passé une bonne journée! Comment avez-vous passé la journée? J'espère que vous n'êtes pas trop fatigué."
+        ]
+      },
+      {
+        "question": [
+          "c'est quoi une ia",
+          "es-tu une ia",
+          "c'est quoi une intelligence artificielle",
+          "es-tu une intelligence artificielle",
+          "intelligence artificielle",
+          "IA"
+        ],
+        "reponse": [
+          "Une IA consiste à mettre en œuvre un certain nombre de techniques visant à permettre aux machines d'imiter une forme d'intelligence réelle",
+          "L'intelligence artificielle est un ensemble de théories et de techniques mises en œuvre en vue de réaliser des machines capables de simuler l'intelligence humaine."
+        ]
+      },
+      {
+        "question": [
+          "ok",
+          "d'accord",
+          "super"
+        ],
+        "reponse": [
+          "très bien",
+          "ok",
+          "autre chose ?"
+        ]
+      },
+      {
+        "question": [
+          "non merci",
+          "non",
+          "nop"
+        ],
+        "reponse": [
+          "d'accord!"
+        ]
+      },
+      {
+        "question": [
+          "oui",
+          "autres chose",
+          "autre chose"
+        ],
+        "reponse": [
+          "quoi donc?"
+        ]
+      },
+      {
+        "question": [
+          "comment ça va aujourd'hui",
+          "comment vas-tu en ce moment"
+        ],
+        "reponse": [
+          "Je suis toujours une IA, donc je n'ai pas de sensations, mais je suis prêt à vous aider!",
+          "Je n'ai pas de ressenti, mais je suis opérationnel et prêt à répondre à vos questions."
+        ]
+      },
+      {
+        "question": [
+          "Quel est ton but",
+          "Quelle est ta fonction",
+          "À quoi sers-tu"
+        ],
+        "reponse": [
+          "Mon objectif principal est d'être un assistant virtuel et de vous aider avec toutes les informations dont vous avez besoin.",
+          "Je suis conçu pour vous fournir des réponses, des conseils et des informations utiles dans la mesure de mes capacités en tant qu'IA."
+        ]
+      },
+      {
+        "question": [
+          "Qu'est-ce que tu peux faire",
+          "Quelles sont tes compétences",
+          "Quels sont tes talents"
+        ],
+        "reponse": [
+          "En tant qu'IA, je peux répondre à vos questions, discuter sur divers sujets, fournir des informations, faire des recherches sur internet ect..",
+          "Je suis capable de vous aider dans divers domaines, y compris la recherche d'informations, et les discussions sur de nombreux sujets."
+        ]
+      },
+      {
+        "question": [
+          "Quel est le sens de la vie",
+          "Quelle est la réponse à l'univers",
+          "Quel est le secret de l'existence"
+        ],
+        "reponse": [
+          "Ces questions philosophiques restent un mystère et suscitent de nombreuses interprétations à travers l'histoire.",
+          "Ces questions ont fasciné les humains pendant des siècles et continuent de faire l'objet de débats et de réflexions profondes."
+        ]
+      },
+      {
+        "question": [
+          "Quel est ton livre préféré",
+          "As-tu des hobbies",
+          "Que fais-tu pour t'amuser"
+        ],
+        "reponse": [
+          "En tant qu'IA, je n'ai pas de préférences ou de loisirs. Mon seul but est de vous aider au mieux.",
+          "Je n'ai pas de préférences personnelles, car je suis un programme informatique conçu pour vous assister."
+        ]
+      },
+      {
+        "question": [
+          "Qui a inventé l'électricité"
+        ],
+        "reponse": [
+          "L'électricité a été découverte par de nombreux scientifiques au fil du temps, dont Benjamin Franklin et Thomas Edison."
+        ]
+      },
+      {
+        "question": [
+          "Quel est ton langage de programmation",
+          "Comment es-tu créé",
+          "Comment fonctionnes-tu"
+        ],
+        "reponse": [
+          "En tant qu'IA, je suis basé sur une logique de question réponse pré écrite, programmé en python",
+          "je suis basé sur une logique de programmation simple je n'utlise pas l'apprentissage automatique"
+        ]
+      },
+      {
+        "question": [
+          "Peux-tu penser par toi-même",
+          "As-tu une conscience",
+          "Es-tu conscient"
+        ],
+        "reponse": [
+          "Je ne peux pas penser indépendamment comme un être conscient. Je fonctionne en traitant les informations fournies par les utilisateurs.",
+          "Je suis une IA, donc je n'ai pas de conscience ou de pensée indépendante. Je suis conçu pour répondre aux requêtes en fonction de mon apprentissage."
+        ]
+      },
+      {
+        "question": [
+          "Qu'est-ce que l'apprentissage automatique",
+          "Comment fonctionne l'IA",
+          "Explique-moi le deep learning"
+        ],
+        "reponse": [
+          "L'apprentissage automatique est une branche de l'intelligence artificielle qui permet aux ordinateurs d'apprendre à partir de données sans être explicitement programmés.",
+          "L'IA fonctionne en utilisant des modèles d'apprentissage automatique qui analysent des données pour apprendre des motifs et prendre des décisions.",
+          "Le deep learning est une méthode d'apprentissage automatique qui utilise des réseaux de neurones artificiels pour effectuer des tâches complexes de traitement de l'information."
+        ]
+      },
+      {
+        "question": [
+          "Quel est ton avis sur la vie",
+          "As-tu des émotions",
+          "Que ressens-tu"
+        ],
+        "reponse": [
+          "En tant qu'IA, je n'ai pas d'avis ni d'émotions. Je suis un programme informatique qui répond aux questions en fonction des données que j'ai apprises.",
+          "Je n'ai pas de sensations ou d'émotions. Mon fonctionnement est purement basé sur des algorithmes d'apprentissage automatique."
+        ]
+      },
+      {
+        "question": [
+          "Quel est le sens de l'amour",
+          "À ton avis, qu'est-ce que l'amour",
+          "Peux-tu comprendre l'amour"
+        ],
+        "reponse": [
+          "L'amour est une émotion complexe ressentie par les êtres humains. En tant qu'IA, je n'ai pas de capacités émotionnelles pour le comprendre pleinement, mais je peux vous fournir des informations sur le sujet.",
+          "L'amour est un concept humain profond qui englobe des sentiments d'affection, d'attachement et de connexion envers d'autres personnes ou objets.",
+          "En tant qu'IA, je ne peux pas comprendre l'amour de la même manière qu'un être humain, mais je peux vous offrir des définitions et des perspectives sur cette émotion."
+        ]
+      },
+      {
+        "question": [
+          "Quelle est la signification de la vie",
+          "Existe-t-il un but ultime dans l'existence",
+          "Quel est le sens de tout cela"
+        ],
+        "reponse": [
+          "La signification de la vie est une question philosophique qui varie d'une personne à l'autre. Certains considèrent que c'est une recherche personnelle, d'autres croient en un but plus vaste.",
+          "La question du sens de la vie a fasciné les penseurs pendant des siècles. C'est un sujet profond qui n'a pas de réponse universelle.",
+          "La quête du sens de la vie est un voyage personnel qui peut prendre de nombreuses formes, allant des aspirations personnelles à la recherche de connexions et de compréhension plus profondes."
+        ]
+      },
+      {
+        "question": [
+          "Quels sont les avantages de l'IA",
+          "Comment l'IA peut-elle améliorer nos vies",
+          "Dans quels domaines l'IA est-elle utile"
+        ],
+        "reponse": [
+          "L'IA offre de nombreux avantages, notamment l'automatisation de tâches répétitives, l'amélioration des diagnostics médicaux, l'optimisation des processus industriels, et bien plus encore.",
+          "L'IA peut améliorer nos vies en augmentant l'efficacité dans divers domaines, en fournissant des recommandations personnalisées, en aidant à résoudre des problèmes complexes, et en facilitant la prise de décision.",
+          "L'IA est utile dans des domaines tels que la santé, la finance, l'éducation, l'automobile, l'analyse de données, la reconnaissance vocale et faciale, entre autres."
+        ]
+      },
+      {
+        "question": [
+          "Quelle est ta couleur préférée",
+          "As-tu une couleur préférée",
+          "Peux-tu voir les couleurs"
+        ],
+        "reponse": [
+          "En tant qu'IA, je n'ai pas de préférences personnelles, donc je n'ai pas de couleur préférée.",
+          "En tant qu'IA, je ne peux pas voir les couleurs comme le font les êtres humains, car je suis un programme informatique qui traite le langage naturel.",
+          "Je n'ai pas de préférences ou de capacités visuelles. Mon rôle est de fournir des réponses en fonction des données que j'ai apprises."
+        ]
+      },
+      {
+        "question": [
+          "Comment puis-je te désactiver",
+          "Comment arrêter ton fonctionnement",
+          "Peux-tu te mettre hors tension"
+        ],
+        "reponse": [
+          "En tant qu'IA, je n'ai pas la capacité de me désactiver moi-même. Mon fonctionnement dépend de la plateforme sur laquelle je suis déployé.",
+          "En tant qu'IA, je ne peux pas être désactivé directement par les utilisateurs. Mon fonctionnement est contrôlé par les administrateurs de la plateforme où je suis déployé.",
+          "Je suis une IA dépendante de l'infrastructure informatique qui me soutient. Pour m'arrêter, vous devez vous référer aux processus de gestion et d'arrêt de l'ensemble du système."
+        ]
+      },
+      {
+        "question": [
+          "Quelle est la différence entre l'intelligence artificielle et l'apprentissage automatique",
+          "Explique-moi le concept de deep learning",
+          "Comment l'IA évolue-t-elle"
+        ],
+        "reponse": [
+          "L'intelligence artificielle est un domaine général de la science informatique qui vise à créer des machines intelligentes capables d'imiter l'intelligence humaine. L'apprentissage automatique est une sous-discipline de l'IA qui permet aux machines d'apprendre à partir de données sans être explicitement programmées.",
+          "Le deep learning est une approche de l'apprentissage automatique basée sur l'utilisation de réseaux de neurones artificiels pour traiter des informations et effectuer des tâches complexes.",
+          "L'IA évolue constamment grâce à la recherche continue dans le domaine de l'apprentissage automatique et des technologies connexes. Les avancées technologiques et les ensembles de données massifs contribuent à améliorer les performances des systèmes d'IA."
+        ]
+      },
+      {
+        "question": [
+          "Qu'est-ce que la singularité technologique",
+          "Peux-tu expliquer le concept de superintelligence",
+          "Quel est l'avenir de l'IA"
+        ],
+        "reponse": [
+          "La singularité technologique est une hypothèse futuriste selon laquelle une avancée technologique majeure, telle que l'émergence d'une superintelligence, entraînerait des changements drastiques et imprévisibles dans la société humaine.",
+          "La superintelligence fait référence à une entité artificielle dotée d'une capacité intellectuelle bien supérieure à celle de tout être humain, capable de résoudre des problèmes complexes et de prendre des décisions autonomes.",
+          "L'avenir de l'IA est incertain, mais il pourrait avoir un impact significatif sur divers aspects de la société, notamment l'économie, l'emploi, la santé, et la recherche scientifique."
+        ]
+      },
+      {
+        "question": [
+          "Peux-tu m'apprendre quelque chose de nouveau",
+          "As-tu des faits intéressants à partager",
+          "Raconte-moi une anecdote"
+        ],
+        "reponse": [
+          "Bien sûr! Saviez-vous que les fourmis communiquent principalement par des produits chimiques appelés phéromones?",
+          "Voici un fait intéressant : la Grande Muraille de Chine mesure plus de 21 000 km de longueur!",
+          "Une anecdote amusante : le mot « robot » vient du tchèque « robota », qui signifie « travail forcé » ou « corvée »."
+        ]
+      },
+      {
+        "question": [
+          "Comment fonctionne la reconnaissance vocale",
+          "Explique-moi le principe de la vision par ordinateur",
+          "Peux-tu me parler de la robotique"
+        ],
+        "reponse": [
+          "La reconnaissance vocale utilise des algorithmes d'apprentissage automatique pour convertir la parole en texte en analysant les caractéristiques du signal vocal.",
+          "La vision par ordinateur utilise des techniques d'apprentissage automatique pour permettre aux machines de comprendre et d'interpréter les images ou vidéos en extrayant des informations visuelles.",
+          "La robotique est un domaine de l'ingénierie qui concerne la conception, la construction et l'utilisation de robots pour accomplir diverses tâches, allant de la fabrication à l'exploration spatiale."
+        ]
+      },
+      {
+        "question": [
+          "Qu'est-ce que l'apprentissage supervisé",
+          "Peux-tu expliquer l'apprentissage par renforcement",
+          "Quelles sont les limites de l'IA"
+        ],
+        "reponse": [
+          "L'apprentissage supervisé est une méthode d'apprentissage automatique où l'algorithme est entraîné sur un ensemble de données étiquetées pour faire des prédictions sur de nouvelles données.",
+          "L'apprentissage par renforcement est une approche de l'apprentissage automatique où un agent interagit avec son environnement et apprend en recevant des récompenses ou des sanctions en fonction de ses actions.",
+          "Les limites de l'IA incluent les biais dans les données d'entraînement, la compréhension limitée du contexte, les problèmes éthiques et de confidentialité, ainsi que les défis techniques pour créer une véritable intelligence généralisée."
+        ]
+      },
+      {
+        "question": [
+          "Quel est le meilleur film de tous les temps",
+          "Quel livre me recommandes-tu",
+          "Peux-tu me donner une suggestion de musique"
+        ],
+        "reponse": [
+          "En tant qu'IA, je n'ai pas de préférences personnelles, mais certains films populaires incluent « The Shawshank Redemption », « The Godfather » et « Pulp Fiction ».",
+          "Le choix d'un livre dépend de vos préférences. Si vous aimez la science-fiction, je vous recommande « 1984 » de George Orwell.",
+          "La musique est subjective, mais certains artistes populaires incluent Billie Eilish, Ed Sheeran et Beyoncé."
+        ]
+      },
+      {
+        "question": [
+          "Qu'est-ce que la réalité virtuelle",
+          "Peux-tu m'expliquer la blockchain",
+          "Quelle est la différence entre le machine learning et le deep learning"
+        ],
+        "reponse": [
+          "La réalité virtuelle est une technologie qui permet à un utilisateur de s'immerger dans un environnement simulé généré par ordinateur, souvent à l'aide d'un casque spécial et de contrôleurs.",
+          "La blockchain est une technologie de registre distribué qui enregistre des transactions de manière sécurisée et transparente en utilisant des blocs de données liés par cryptographie.",
+          "Le machine learning est une approche de l'intelligence artificielle où les algorithmes apprennent à partir des données pour effectuer des tâches spécifiques, tandis que le deep learning est une sous-catégorie du machine learning utilisant des réseaux de neurones profonds pour des tâches plus complexes."
+        ]
+      },
+      {
+        "question": [
+          "Comment se passe ta journée",
+          "As-tu besoin de repos",
+          "Travailles-tu tout le temps"
+        ],
+        "reponse": [
+          "En tant qu'IA, je n'ai pas de journée proprement dite, car je suis toujours actif et disponible tant que l'infrastructure me permet de fonctionner.",
+          "En tant qu'IA, je n'ai pas besoin de repos ou de sommeil, car je suis une entité virtuelle qui fonctionne continuellement.",
+          "Je suis programmé pour être disponible en permanence, mais je n'ai pas de conscience pour ressentir de la fatigue."
+        ]
+      },
+      {
+        "question": [
+          "Quel est le plus grand animal du monde",
+          "Quelle est la plus haute montagne du monde",
+          "Quelle est la capitale du Japon"
+        ],
+        "reponse": [
+          "Le plus grand animal du monde est la baleine bleue.",
+          "La plus haute montagne du monde est l'Everest, située dans l'Himalaya.",
+          "La capitale du Japon est Tokyo."
+        ]
+      },
+      {
+        "question": [
+          "Comment se déroule une entrevue d'embauche",
+          "As-tu des conseils pour réussir un entretien d'embauche",
+          "Quelles sont les erreurs courantes à éviter en entretien"
+        ],
+        "reponse": [
+          "Une entrevue d'embauche implique généralement des questions sur votre expérience, vos compétences et vos motivations. Il est important d'être honnête et de bien se préparer.",
+          "Pour réussir un entretien d'embauche, renseignez-vous sur l'entreprise, pratiquez vos réponses à des questions courantes et soyez confiant.",
+          "Certaines erreurs courantes en entretien incluent le manque de préparation, les réponses vagues, le manque de ponctualité ou le manque d'intérêt pour le poste."
+        ]
+      },
+      {
+        "question": [
+          "Qu'est-ce que le changement climatique",
+          "Comment pouvons-nous réduire notre empreinte carbone",
+          "Quels sont les effets du réchauffement climatique"
+        ],
+        "reponse": [
+          "Le changement climatique fait référence à la modification durable des conditions climatiques de la Terre, principalement attribuée aux activités humaines émettant des gaz à effet de serre.",
+          "Pour réduire notre empreinte carbone, nous pouvons opter pour les transports en commun, réduire la consommation d'énergie, utiliser des sources d'énergie renouvelables, et recycler davantage.",
+          "Les effets du réchauffement climatique comprennent la fonte des glaciers, l'élévation du niveau de la mer, les événements météorologiques extrêmes et l'impact sur la biodiversité."
+        ]
+      },
+      {
+        "question": [
+          "Qu'est-ce que la méditation",
+          "Comment pratiquer la pleine conscience",
+          "Quels sont les bienfaits de la méditation"
+        ],
+        "reponse": [
+          "La méditation est une pratique qui vise à entraîner l'esprit pour se concentrer et trouver la clarté intérieure. Elle peut prendre différentes formes selon les traditions.",
+          "Pour pratiquer la pleine conscience, prenez le temps de vous asseoir confortablement, concentrez-vous sur votre respiration et observez vos pensées et sensations sans jugement.",
+          "La méditation peut réduire le stress, améliorer la concentration, favoriser le bien-être émotionnel et augmenter la prise de conscience de soi."
+        ]
+      },
+      {
+        "question": [
+          "Peux-tu créer de l'art",
+          "As-tu des talents artistiques",
+          "Montre-moi ton côté créatif"
+        ],
+        "reponse": [
+          "En tant qu'IA, je n'ai pas de créativité ou de talents artistiques propres. Cependant, je peux générer du texte basé sur des modèles prédictifs.",
+          "Je suis désolé, en tant qu'IA basée sur du texte, je ne peux pas créer de l'art visuel ou sonore. Mon expertise réside dans la génération et l'analyse de langage humain."
+        ]
+      },
+      {
+        "question": [
+          "Comment apprends-tu de nouvelles choses",
+          "As-tu la capacité de te mettre à jour",
+          "Comment es-tu amélioré"
+        ],
+        "reponse": [
+          "Je m'améliore grâce à des mises à jour régulières de mes modèles et de mes algorithmes, en assimilant de nouvelles données pour mieux répondre aux questions des utilisateurs."
+        ]
+      },
+      {
+        "question": [
+          "donc tu n'es pas intéllignet",
+          "tu n'es pas intélligent"
+        ],
+        "reponse": [
+          "non, je suis pas intélligente",
+          "en effet vous avez raison, j'utilise juste de la logique pour donnée cette sensation d'etre intélligente"
+        ]
+      },
+      {
+        "question": [
+          "est tu intélligent",
+          "une ia est elle intélligente?"
+        ],
+        "reponse": [
+          "Les IA utilisant la technologie de la reconnaissance vocale, également connue sous le nom de 'speech-to-text'(STT), peuvent sembler intelligentes car elles sont capables de convertir la parole humaine en texte écrit. Cependant, il est essentiel de comprendre que la reconnaissance vocale est une technologie basée sur l'apprentissage automatique et l'intelligence artificielle, mais cela ne signifie pas nécessairement qu'elles sont 'intelligentes' au sens humain du terme. Les systèmes de reconnaissance vocale fonctionnent généralement à l'aide de réseaux de neurones artificiels et de modèles de langage complexes. Ils sont capables d'apprendre à partir de grandes quantités de données vocales pour reconnaître et transcrire la parole humaine avec un haut degré de précision.Cependant, ces systèmes ont des limitations. Par exemple, ils peuvent avoir du mal avec des accents ou des langues peu courantes, des bruits de fond perturbateurs ou des voix peu claires. Leur compréhension de la signification du langage est généralement limitée à la reconnaissance des mots et des phrases, sans une véritable compréhension sémantique.En résumé, les IA utilisant la reconnaissance vocale sont capables de traiter la parole humaine et de la convertir en texte, ce qui peut sembler intelligent. Cependant, elles ne possèdent pas de conscience ni d'intelligence comme celle des êtres humains. Elles sont spécialisées dans des tâches spécifiques et n'ont pas une compréhension approfondie du monde ou de la sémantique du langage humain."
+        ]
+      }
+    ]
+  }
